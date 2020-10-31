@@ -1,0 +1,7 @@
+#+TITLE: NCPC 2020 Warmup
+
+| Problem            | Attempted | Accepted |
+| B (cdvii)          | X         |          |
+| C (crashingrobots) | X         |          |
+| J (majstor)        | X         | X        |
+| M (nop)            | X         | X        |
